@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671630890 source:c:\users\void\desktop\calcolatore_del_dottore\main.cpp
+	<iostream>
+	<cstdlib>
+	"windows.h"
+
